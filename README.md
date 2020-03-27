@@ -5,7 +5,7 @@ This repository contains code used to simulate epithelial clone dynamics under t
   > Colom B, Alcolea MP, Piedrafita G, Wabik A, Hall MWJ, Dentro SC, Fowler JC, Herms A, King C, Ong SH, Sood RK, Gerstung M, Martincorena I, Hall BA, Jones PH (2020) Spatial competition shapes the dynamic mutational landscape of normal esophageal epithelium. _accepted in Nat. Genet._
 
 ### Graphical abstract
-![GraphicalAbstract](https://github.com/gp10/Colom_etal_ClonalCOMMUTE/blob/master/Graphical_abstract_ClonalCOMMUTE.png)
+![GraphicalAbstract](https://github.com/gp10/ClonalCOMMUTE/blob/master/Graphical_abstract_ClonalCOMMUTE.png)
 
 ### Overview of the NCF-model and implementation
 The **NCF model** grounds on the plasticity of the stochastic progenitor cell fates within the epithelium, cells which debate between division and terminal differentiation, and assumes that mutant cells battle for a limited space with different resilience to differentiate, and fitness advantages that are not cell-intrinsic but relative to cell neighborhood. In the manuscript we show how this model accommodates experimental data and has major implications for clonal growth, competition and selection.
