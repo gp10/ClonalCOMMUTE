@@ -2,7 +2,7 @@
 Computational methods to explore cell competition and clone dynamics in mutated mouse epithelium.
 
 This repository contains code used to simulate epithelial clone dynamics under the Neighbor-Constrained Fitness (NCF)-model hypothesis, as defined in the publication:
-  > Colom B, Alcolea MP, Piedrafita G, Wabik A, Hall MWJ, Dentro SC, Fowler JC, Herms A, King C, Ong SH, Sood RK, Gerstung M, Martincorena I, Hall BA, Jones PH (2020) Spatial competition shapes the dynamic mutational landscape of normal esophageal epithelium. _accepted in Nat. Genet._
+  > Colom B, Alcolea MP, Piedrafita G, et al. (2020) Spatial competition shapes the dynamic mutational landscape of normal esophageal epithelium. _Nat. Genet._ https://doi.org/10.1038/s41588-020-0624-3.
 
 ### Graphical abstract
 ![GraphicalAbstract](https://github.com/gp10/ClonalCOMMUTE/blob/master/Graphical_abstract_ClonalCOMMUTE.png)
